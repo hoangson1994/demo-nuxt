@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <nuxt-link to="/about">ABOUT US</nuxt-link>
+      <nuxt-link to="/about-us">ABOUT US</nuxt-link>
       <logo />
       <h1 class="title">
         demo-nuxtjs

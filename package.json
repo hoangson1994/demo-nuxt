@@ -14,5 +14,7 @@
   "dependencies": {
     "nuxt": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/router": "^1.5.0"
+  }
 }
